@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>RectWithItems.qml</file>
+    </qresource>
+</RCC>
